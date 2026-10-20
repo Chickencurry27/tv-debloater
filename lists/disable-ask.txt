@@ -1,0 +1,27 @@
+# Only disabled if the owner says yes. Format: package  # what it does
+com.google.android.katniss                    # Google Assistant / voice search (remote mic button)
+org.droidtv.amazonalexa                       # Alexa built-in
+com.mediatek.AirplayAPK                       # AirPlay receiver (cast from iPhone/Mac)
+com.mediatek.airplaydaemon
+com.mediatek.partner.airplay_sys
+org.droidtv.ambisuite                         # Ambilight apps (only useful if the TV has Ambilight)
+org.droidtv.ambiair
+org.droidtv.ambihuecommon
+org.droidtv.ambisvc
+io.mimi.sdk.service                           # Mimi hearing-personalised sound
+io.mimi.tvapp
+com.phorus.playfi.tv                          # PlayFi multiroom audio
+com.phorus.playfi.softap
+org.droidtv.dlna                              # DLNA media sharing
+org.droidtv.contentexplorer                   # USB/network media browser
+org.droidtv.multiview                         # picture-in-picture
+org.droidtv.matter                            # Matter smart-home
+org.droidtv.ipcontrol                         # control from the Philips TV Remote phone app
+com.disney.disneyplus                         # Disney+ (installed, not in your dock list)
+com.google.android.youtube.tvmusic            # YouTube Music
+com.google.android.videos                     # Google TV store / movies
+com.tpv.moments                               # Philips Moments (photo/art screensaver)
+com.omni.ssutv.eu                             # unknown Philips "ssutv" service (possibly smart-TV promos)
+com.omni.ssutv.tpv
+com.vewd.core.browser                         # Vewd browser engine (HbbTV)
+com.tpv.screenshotshare

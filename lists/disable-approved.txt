@@ -1,0 +1,11 @@
+# Owner-approved from disable-ask.txt (answers 2026-10-20)
+com.google.android.katniss                    # Google Assistant (remote mic button stops working)
+org.droidtv.amazonalexa
+org.droidtv.dlna
+org.droidtv.contentexplorer
+org.droidtv.ipcontrol
+com.phorus.playfi.tv
+com.phorus.playfi.softap
+io.mimi.sdk.service
+io.mimi.tvapp
+com.tpv.moments

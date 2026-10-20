@@ -1,0 +1,44 @@
+# Never touched.
+com.android.vending                           # Play Store
+com.google.android.gms                        # Google Play services
+com.google.android.apps.mediashell            # Chromecast built-in
+com.mediatek.dialservice                      # casting discovery
+org.droidtv.hdmiservice                       # HDMI / CEC
+org.droidtv.tvpowermanagerservice
+org.droidtv.tv.tpvaudiomanager                # audio routing (optical out)
+org.droidtv.tv.tpvvideomanager
+org.droidtv.tv.tpvbluetoothmanager
+org.droidtv.bluetoothremote
+org.droidtv.bluetoothaudiosink
+org.droidtv.audiocalibration
+org.droidtv.personalisedsound
+com.dolby.android.audio.service
+com.android.tv.settings
+com.android.systemui
+org.droidtv.tvsystemui
+com.google.android.apps.tv.launcherx          # stock home, stays enabled as fallback
+org.droidtv.homeintentresolver
+org.droidtv.leanbackcustomizer
+org.droidtv.oemtabprovider
+org.droidtv.upgradeapp                        # OTA updates
+com.mediatek.tv.systemupdater
+com.google.android.tv.remote.service
+com.google.android.tungsten.setupwraith       # disabled only if it steals Home (tested later)
+# dock apps
+com.google.android.youtube.tv
+com.netflix.ninja
+com.netflix.tokenmanager
+com.amazon.amazonvideo.livingroom
+com.formulaone.production
+com.wbd.hbomax
+com.apple.atve.androidtv.appletv
+org.jellyfin.androidtv
+com.skyshowtime.skyshowtime.google
+nl.uitzendinggemist
+nl.rtl.videoland.v2
+com.esaba.downloader                          # Downloader app (useful for sideloading)
+# live TV / tuner stack stays as-is (not used, but too entangled to risk)
+org.droidtv.channels
+org.droidtv.playtv
+org.droidtv.epgdata
+org.droidtv.ci

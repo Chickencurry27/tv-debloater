@@ -1,0 +1,8 @@
+backup/
+shots/
+launcher/build/
+launcher/app.apk
+launcher/debug.keystore
+.superpowers/
+launcher/*.idsig
+progress.md
